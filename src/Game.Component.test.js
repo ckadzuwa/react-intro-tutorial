@@ -10,3 +10,8 @@ test('it should render without crashing', () => {
     const game = shallow(<Game/>);
     expect(game).toHaveLength(1);
 });
+
+test('it should match the snapshots', () => {
+    const game = shallow(<Game/>);
+    expect(game).toMatchSnapshot();
+});
