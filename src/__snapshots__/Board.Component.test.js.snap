@@ -28,39 +28,48 @@ ShallowWrapper {
           className="board-row"
         >
           <Square
-            value={0}
+            onClick={[Function]}
+            value={null}
           />
           <Square
-            value={1}
+            onClick={[Function]}
+            value={null}
           />
           <Square
-            value={2}
-          />
-        </div>,
-        <div
-          className="board-row"
-        >
-          <Square
-            value={3}
-          />
-          <Square
-            value={4}
-          />
-          <Square
-            value={5}
+            onClick={[Function]}
+            value={null}
           />
         </div>,
         <div
           className="board-row"
         >
           <Square
-            value={6}
+            onClick={[Function]}
+            value={null}
           />
           <Square
-            value={7}
+            onClick={[Function]}
+            value={null}
           />
           <Square
-            value={8}
+            onClick={[Function]}
+            value={null}
+          />
+        </div>,
+        <div
+          className="board-row"
+        >
+          <Square
+            onClick={[Function]}
+            value={null}
+          />
+          <Square
+            onClick={[Function]}
+            value={null}
+          />
+          <Square
+            onClick={[Function]}
+            value={null}
           />
         </div>,
       ],
@@ -86,13 +95,16 @@ ShallowWrapper {
         "props": Object {
           "children": Array [
             <Square
-              value={0}
+              onClick={[Function]}
+              value={null}
             />,
             <Square
-              value={1}
+              onClick={[Function]}
+              value={null}
             />,
             <Square
-              value={2}
+              onClick={[Function]}
+              value={null}
             />,
           ],
           "className": "board-row",
@@ -104,7 +116,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": 0,
+              "onClick": [Function],
+              "value": null,
             },
             "ref": null,
             "rendered": null,
@@ -115,7 +128,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": 1,
+              "onClick": [Function],
+              "value": null,
             },
             "ref": null,
             "rendered": null,
@@ -126,7 +140,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": 2,
+              "onClick": [Function],
+              "value": null,
             },
             "ref": null,
             "rendered": null,
@@ -142,13 +157,16 @@ ShallowWrapper {
         "props": Object {
           "children": Array [
             <Square
-              value={3}
+              onClick={[Function]}
+              value={null}
             />,
             <Square
-              value={4}
+              onClick={[Function]}
+              value={null}
             />,
             <Square
-              value={5}
+              onClick={[Function]}
+              value={null}
             />,
           ],
           "className": "board-row",
@@ -160,7 +178,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": 3,
+              "onClick": [Function],
+              "value": null,
             },
             "ref": null,
             "rendered": null,
@@ -171,7 +190,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": 4,
+              "onClick": [Function],
+              "value": null,
             },
             "ref": null,
             "rendered": null,
@@ -182,7 +202,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": 5,
+              "onClick": [Function],
+              "value": null,
             },
             "ref": null,
             "rendered": null,
@@ -198,13 +219,16 @@ ShallowWrapper {
         "props": Object {
           "children": Array [
             <Square
-              value={6}
+              onClick={[Function]}
+              value={null}
             />,
             <Square
-              value={7}
+              onClick={[Function]}
+              value={null}
             />,
             <Square
-              value={8}
+              onClick={[Function]}
+              value={null}
             />,
           ],
           "className": "board-row",
@@ -216,7 +240,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": 6,
+              "onClick": [Function],
+              "value": null,
             },
             "ref": null,
             "rendered": null,
@@ -227,7 +252,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": 7,
+              "onClick": [Function],
+              "value": null,
             },
             "ref": null,
             "rendered": null,
@@ -238,7 +264,8 @@ ShallowWrapper {
             "key": undefined,
             "nodeType": "class",
             "props": Object {
-              "value": 8,
+              "onClick": [Function],
+              "value": null,
             },
             "ref": null,
             "rendered": null,
@@ -266,39 +293,48 @@ ShallowWrapper {
             className="board-row"
           >
             <Square
-              value={0}
+              onClick={[Function]}
+              value={null}
             />
             <Square
-              value={1}
+              onClick={[Function]}
+              value={null}
             />
             <Square
-              value={2}
-            />
-          </div>,
-          <div
-            className="board-row"
-          >
-            <Square
-              value={3}
-            />
-            <Square
-              value={4}
-            />
-            <Square
-              value={5}
+              onClick={[Function]}
+              value={null}
             />
           </div>,
           <div
             className="board-row"
           >
             <Square
-              value={6}
+              onClick={[Function]}
+              value={null}
             />
             <Square
-              value={7}
+              onClick={[Function]}
+              value={null}
             />
             <Square
-              value={8}
+              onClick={[Function]}
+              value={null}
+            />
+          </div>,
+          <div
+            className="board-row"
+          >
+            <Square
+              onClick={[Function]}
+              value={null}
+            />
+            <Square
+              onClick={[Function]}
+              value={null}
+            />
+            <Square
+              onClick={[Function]}
+              value={null}
             />
           </div>,
         ],
@@ -324,13 +360,16 @@ ShallowWrapper {
           "props": Object {
             "children": Array [
               <Square
-                value={0}
+                onClick={[Function]}
+                value={null}
               />,
               <Square
-                value={1}
+                onClick={[Function]}
+                value={null}
               />,
               <Square
-                value={2}
+                onClick={[Function]}
+                value={null}
               />,
             ],
             "className": "board-row",
@@ -342,7 +381,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "value": 0,
+                "onClick": [Function],
+                "value": null,
               },
               "ref": null,
               "rendered": null,
@@ -353,7 +393,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "value": 1,
+                "onClick": [Function],
+                "value": null,
               },
               "ref": null,
               "rendered": null,
@@ -364,7 +405,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "value": 2,
+                "onClick": [Function],
+                "value": null,
               },
               "ref": null,
               "rendered": null,
@@ -380,13 +422,16 @@ ShallowWrapper {
           "props": Object {
             "children": Array [
               <Square
-                value={3}
+                onClick={[Function]}
+                value={null}
               />,
               <Square
-                value={4}
+                onClick={[Function]}
+                value={null}
               />,
               <Square
-                value={5}
+                onClick={[Function]}
+                value={null}
               />,
             ],
             "className": "board-row",
@@ -398,7 +443,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "value": 3,
+                "onClick": [Function],
+                "value": null,
               },
               "ref": null,
               "rendered": null,
@@ -409,7 +455,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "value": 4,
+                "onClick": [Function],
+                "value": null,
               },
               "ref": null,
               "rendered": null,
@@ -420,7 +467,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "value": 5,
+                "onClick": [Function],
+                "value": null,
               },
               "ref": null,
               "rendered": null,
@@ -436,13 +484,16 @@ ShallowWrapper {
           "props": Object {
             "children": Array [
               <Square
-                value={6}
+                onClick={[Function]}
+                value={null}
               />,
               <Square
-                value={7}
+                onClick={[Function]}
+                value={null}
               />,
               <Square
-                value={8}
+                onClick={[Function]}
+                value={null}
               />,
             ],
             "className": "board-row",
@@ -454,7 +505,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "value": 6,
+                "onClick": [Function],
+                "value": null,
               },
               "ref": null,
               "rendered": null,
@@ -465,7 +517,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "value": 7,
+                "onClick": [Function],
+                "value": null,
               },
               "ref": null,
               "rendered": null,
@@ -476,7 +529,8 @@ ShallowWrapper {
               "key": undefined,
               "nodeType": "class",
               "props": Object {
-                "value": 8,
+                "onClick": [Function],
+                "value": null,
               },
               "ref": null,
               "rendered": null,
