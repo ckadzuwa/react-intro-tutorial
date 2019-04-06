@@ -1,11 +1,9 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`it should should match the snapshot 1`] = `
+exports[`it should match the snapshot 1`] = `
 ShallowWrapper {
   Symbol(enzyme.__root__): [Circular],
-  Symbol(enzyme.__unrendered__): <Square
-    value={1}
-  />,
+  Symbol(enzyme.__unrendered__): <Square />,
   Symbol(enzyme.__renderer__): Object {
     "batchedUpdates": [Function],
     "checkPropTypes": [Function],
@@ -20,11 +18,12 @@ ShallowWrapper {
     "key": undefined,
     "nodeType": "host",
     "props": Object {
-      "children": 1,
+      "children": null,
       "className": "square",
+      "onClick": [Function],
     },
     "ref": null,
-    "rendered": 1,
+    "rendered": null,
     "type": "button",
   },
   Symbol(enzyme.__nodes__): Array [
@@ -33,11 +32,12 @@ ShallowWrapper {
       "key": undefined,
       "nodeType": "host",
       "props": Object {
-        "children": 1,
+        "children": null,
         "className": "square",
+        "onClick": [Function],
       },
       "ref": null,
-      "rendered": 1,
+      "rendered": null,
       "type": "button",
     },
   ],
