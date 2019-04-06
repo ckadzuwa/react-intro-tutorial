@@ -11,17 +11,14 @@ test('it should render without crashing', () => {
     expect(square).toHaveLength(1);
 });
 
-test('it should render without crashing when props are passed in', () => {
-    const square = shallow(<Square value={1}/>);
-    expect(square).toHaveLength(1);
-});
+test('it should have an X when clicked', () => {
+    const square = mount(<Square />);
+    
+    expect(square.state('value')).toEqual(null);
+    expect(square.html()).toEqual("<button class=\"square\"></button>");
 
-test('it should should match the snapshot', () => {
-    const square = shallow(<Square value={1}/>);
-    expect(square).toMatchSnapshot();
-});
+    square.find('button').simulate('click');
 
-test('it should render a button with text 1 inside', () => {
-    const square = shallow(<Square value={1}/>);
-    expect(square.html()).toEqual("<button class=\"square\">1</button>");
+    expect(square.state('value')).toEqual('X');
+    expect(square.html()).toEqual('<button class=\"square\">X</button>');
 });
