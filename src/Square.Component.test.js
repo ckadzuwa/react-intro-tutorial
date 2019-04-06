@@ -11,6 +11,11 @@ test('it should render without crashing', () => {
     expect(square).toHaveLength(1);
 });
 
+test('it should match the snapshot', () => {
+    const square = shallow(<Square/>);
+    expect(square).toMatchSnapshot();
+});
+
 test('it should have an X when clicked', () => {
     const square = mount(<Square />);
     
