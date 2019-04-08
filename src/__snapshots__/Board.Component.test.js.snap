@@ -114,7 +114,7 @@ ShallowWrapper {
           Object {
             "instance": null,
             "key": undefined,
-            "nodeType": "class",
+            "nodeType": "function",
             "props": Object {
               "onClick": [Function],
               "value": null,
@@ -126,7 +126,7 @@ ShallowWrapper {
           Object {
             "instance": null,
             "key": undefined,
-            "nodeType": "class",
+            "nodeType": "function",
             "props": Object {
               "onClick": [Function],
               "value": null,
@@ -138,69 +138,7 @@ ShallowWrapper {
           Object {
             "instance": null,
             "key": undefined,
-            "nodeType": "class",
-            "props": Object {
-              "onClick": [Function],
-              "value": null,
-            },
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-        ],
-        "type": "div",
-      },
-      Object {
-        "instance": null,
-        "key": undefined,
-        "nodeType": "host",
-        "props": Object {
-          "children": Array [
-            <Square
-              onClick={[Function]}
-              value={null}
-            />,
-            <Square
-              onClick={[Function]}
-              value={null}
-            />,
-            <Square
-              onClick={[Function]}
-              value={null}
-            />,
-          ],
-          "className": "board-row",
-        },
-        "ref": null,
-        "rendered": Array [
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
-            "props": Object {
-              "onClick": [Function],
-              "value": null,
-            },
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
-            "props": Object {
-              "onClick": [Function],
-              "value": null,
-            },
-            "ref": null,
-            "rendered": null,
-            "type": [Function],
-          },
-          Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "class",
+            "nodeType": "function",
             "props": Object {
               "onClick": [Function],
               "value": null,
@@ -238,7 +176,7 @@ ShallowWrapper {
           Object {
             "instance": null,
             "key": undefined,
-            "nodeType": "class",
+            "nodeType": "function",
             "props": Object {
               "onClick": [Function],
               "value": null,
@@ -250,7 +188,7 @@ ShallowWrapper {
           Object {
             "instance": null,
             "key": undefined,
-            "nodeType": "class",
+            "nodeType": "function",
             "props": Object {
               "onClick": [Function],
               "value": null,
@@ -262,7 +200,69 @@ ShallowWrapper {
           Object {
             "instance": null,
             "key": undefined,
-            "nodeType": "class",
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+        ],
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <Square
+              onClick={[Function]}
+              value={null}
+            />,
+            <Square
+              onClick={[Function]}
+              value={null}
+            />,
+            <Square
+              onClick={[Function]}
+              value={null}
+            />,
+          ],
+          "className": "board-row",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
+            "props": Object {
+              "onClick": [Function],
+              "value": null,
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "function",
             "props": Object {
               "onClick": [Function],
               "value": null,
@@ -379,7 +379,7 @@ ShallowWrapper {
             Object {
               "instance": null,
               "key": undefined,
-              "nodeType": "class",
+              "nodeType": "function",
               "props": Object {
                 "onClick": [Function],
                 "value": null,
@@ -391,7 +391,7 @@ ShallowWrapper {
             Object {
               "instance": null,
               "key": undefined,
-              "nodeType": "class",
+              "nodeType": "function",
               "props": Object {
                 "onClick": [Function],
                 "value": null,
@@ -403,69 +403,7 @@ ShallowWrapper {
             Object {
               "instance": null,
               "key": undefined,
-              "nodeType": "class",
-              "props": Object {
-                "onClick": [Function],
-                "value": null,
-              },
-              "ref": null,
-              "rendered": null,
-              "type": [Function],
-            },
-          ],
-          "type": "div",
-        },
-        Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": Array [
-              <Square
-                onClick={[Function]}
-                value={null}
-              />,
-              <Square
-                onClick={[Function]}
-                value={null}
-              />,
-              <Square
-                onClick={[Function]}
-                value={null}
-              />,
-            ],
-            "className": "board-row",
-          },
-          "ref": null,
-          "rendered": Array [
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "class",
-              "props": Object {
-                "onClick": [Function],
-                "value": null,
-              },
-              "ref": null,
-              "rendered": null,
-              "type": [Function],
-            },
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "class",
-              "props": Object {
-                "onClick": [Function],
-                "value": null,
-              },
-              "ref": null,
-              "rendered": null,
-              "type": [Function],
-            },
-            Object {
-              "instance": null,
-              "key": undefined,
-              "nodeType": "class",
+              "nodeType": "function",
               "props": Object {
                 "onClick": [Function],
                 "value": null,
@@ -503,7 +441,7 @@ ShallowWrapper {
             Object {
               "instance": null,
               "key": undefined,
-              "nodeType": "class",
+              "nodeType": "function",
               "props": Object {
                 "onClick": [Function],
                 "value": null,
@@ -515,7 +453,7 @@ ShallowWrapper {
             Object {
               "instance": null,
               "key": undefined,
-              "nodeType": "class",
+              "nodeType": "function",
               "props": Object {
                 "onClick": [Function],
                 "value": null,
@@ -527,7 +465,69 @@ ShallowWrapper {
             Object {
               "instance": null,
               "key": undefined,
-              "nodeType": "class",
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+          ],
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              <Square
+                onClick={[Function]}
+                value={null}
+              />,
+              <Square
+                onClick={[Function]}
+                value={null}
+              />,
+              <Square
+                onClick={[Function]}
+                value={null}
+              />,
+            ],
+            "className": "board-row",
+          },
+          "ref": null,
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
+              "props": Object {
+                "onClick": [Function],
+                "value": null,
+              },
+              "ref": null,
+              "rendered": null,
+              "type": [Function],
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "function",
               "props": Object {
                 "onClick": [Function],
                 "value": null,
