@@ -42,3 +42,13 @@ test('it should update the sqaure clicked with an X', () => {
 
     expect(firstSquare.html()).toEqual('<button class=\"square\">X</button>');
 });
+
+test('it should change state for tracking turn of next player after square click', () => {
+    const board = mount(<Board/>);
+    expect(board.state().xIsNext).toEqual(true);
+    const firstSquare = board.find(Square).first();
+
+    firstSquare.find('button').simulate('click');
+
+    expect(board.state().xIsNext).toEqual(false);
+});
